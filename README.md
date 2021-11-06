@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @efeuncode
+- 👀 I’m interested in arts, music and coding...
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on automatization stuff
+- 📫 How to reach me efeuncode@gmail.com
